@@ -1,0 +1,4 @@
+/home/user/text.txt
+/home/user/main.c
+/home/user/main
+/home/host_list
